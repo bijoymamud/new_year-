@@ -85,7 +85,7 @@
   font-weight: 700;
   font-size: 40px;
   font-family: "Work Sans";
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .flex-2 {
@@ -97,6 +97,7 @@
 }
 
 .sub-title-2 {
+  margin-top: 50px;
   color: #737272;
   font-weight: 500;
   font-size: 25px;
