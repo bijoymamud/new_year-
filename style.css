@@ -14,9 +14,9 @@
 .headings {
   text-align: right;
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translateX(100%) translateY(-50%);
+  left: 65%;
+  top: 70%;
+  transform: translateX(-10%) translateY(-90%);
 }
 
 .headings h1 {
