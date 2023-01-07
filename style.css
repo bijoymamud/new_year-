@@ -11,6 +11,54 @@
   background-size: cover;
   margin-bottom: 130px;
 }
+
+.nav-margin {
+  padding: 30px 60px;
+}
+nav ul {
+  display: flex;
+
+  width: 70%;
+}
+
+nav ul li {
+  list-style: none;
+  margin-right: 30px;
+  padding: 10px 30px;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Work Sans";
+}
+nav ul li:hover {
+  background-color: white;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #f15b22;
+}
+
+.dot {
+  float: left;
+  display: block;
+  text-align: left;
+
+  margin: 0;
+  padding: 14px;
+}
+nav input[type="text"] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-right: 16px;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 35%;
+  background-color: white;
+}
+
 .headings {
   text-align: right;
   position: absolute;
