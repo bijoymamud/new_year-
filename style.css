@@ -110,17 +110,16 @@
   margin: auto;
   padding-bottom: 100px;
 }
-
 .background-2 {
-  margin: 0 200px;
+  width: 85%;
+  height: 50vh;
   background-image: url("images/gradient2.png"), url("images/watch.png");
-  width: 80%;
-  height: 30vh;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 130px;
-  padding: 60px 64px;
-  border-radius: 5px;
+  margin: 0 200px;
+}
+.last-p {
+  padding: 200px 100px;
 }
 .title-3 {
   color: #ffffff;
@@ -128,23 +127,21 @@
   font-size: 40px;
   font-family: "Work Sans";
 }
-.last-p {
-  padding-bottom: 50px;
-  padding-top: 120px;
-}
 
 .contact2 {
-  margin-top: 10px;
+  margin-top: 25px;
+  height: 65px;
   background: #ffffff;
-  width: 160px;
-  height: 64px;
+  border-radius: 5px;
   color: #f15b22;
   font-weight: 600;
   font-size: 20px;
   font-family: "Work Sans";
+  padding: 20px 35px;
   border: 0;
-  border-radius: 5px;
-  margin-bottom: 30px;
+}
+.margin {
+  margin-bottom: 130px;
 }
 .flex3 {
   display: flex;
