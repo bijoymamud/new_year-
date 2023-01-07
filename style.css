@@ -16,7 +16,7 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translateX(-10%) translateY(-50%);
+  transform: translateX(100%) translateY(-50%);
 }
 
 .headings h1 {
@@ -115,7 +115,7 @@
   margin: 0 200px;
   background-image: url("images/gradient2.png"), url("images/watch.png");
   width: 80%;
-  height: 40vh;
+  height: 30vh;
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 130px;
